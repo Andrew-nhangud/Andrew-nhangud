@@ -38,13 +38,6 @@ A multi-page React application that lets users browse artists, view artist profi
 - Built with: React, Vite, JavaScript, CSS, Vercel
 - Live site: [booking-artist.vercel.app](http://booking-artist.vercel.app)
 
-### Kanban Board
-
-A responsive task management app built with Vanilla JavaScript, featuring task updates, local storage persistence, and a light/dark theme toggle.
-
-- Built with: JavaScript, CSS, HTML, Vercel
-- Live site: [andnha-25109-fto-2502a-group-a1-and.vercel.app](https://andnha-25109-fto-2502a-group-a1-and.vercel.app/)
-
 ## Contact Info
 
 - Email: [me@andrewnhangud.com](mailto:me@andrewnhangud.com)
