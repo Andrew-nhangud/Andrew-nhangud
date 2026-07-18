@@ -45,12 +45,6 @@ A responsive task management app built with Vanilla JavaScript, featuring task u
 - Built with: JavaScript, CSS, HTML, Vercel
 - Live site: [andnha-25109-fto-2502a-group-a1-and.vercel.app](https://andnha-25109-fto-2502a-group-a1-and.vercel.app/)
 
-## Stats
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-nhangud&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-nhangud&layout=compact&theme=radical)
-
 ## Contact Info
 
 - Email: [me@andrewnhangud.com](mailto:me@andrewnhangud.com)
