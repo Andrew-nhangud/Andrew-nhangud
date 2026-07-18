@@ -1,6 +1,6 @@
 # Andrew Nhangud
 
-Hi, I'm Andrew Nhangud — a frontend developer focused on building modern, responsive, and user-friendly web experiences with React. I enjoy turning ideas into polished digital products and continuously improving my craft.
+Frontend Developer | React | Creating Clean, High-Performance Web Experiences
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Nhangud-blue?logo=linkedin)](http://www.linkedin.com/in/andrew-nhangud) [![GitHub](https://img.shields.io/badge/GitHub-Andrew--nhangud-black?logo=github)](https://github.com/Andrew-nhangud) [![Portfolio](https://img.shields.io/badge/Portfolio-andrewnhangud.com-6A5ACD)](https://andrewnhangud.com)
 
